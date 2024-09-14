@@ -1,0 +1,27 @@
+button{
+    background-color: red;
+    border-color: red;
+    border-style: none;
+    border-radius: 20px;
+}
+h1
+{
+    size: 60px;
+    background-color:red;
+}
+h2
+{
+    size: 30;
+    background-color: white;
+}
+h3
+{
+    size: 20;
+    background-color: brown;
+}
+
+hr
+{
+    size: 25px;
+    background-color:white;
+}
